@@ -8,5 +8,11 @@
     "percentToQualify": "75",
     "password": "666777",
     "records": [
+        {
+            "user": "Tim",
+            "link": "https://www.youtube.com/watch?v=-og1uHiPY_o",
+            "percent": 100,
+            "hz": 600
+        }
     ]
 }
