@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "Will",
+            "link": "https://youtu.be/SSWQFSJ3aeM?is=lMqIY-Tr6B4a_pnI",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Dom",
+            "link": "Not applicable",
+            "percent": 100,
+            "hz": 100
+        }
     ]
 }
