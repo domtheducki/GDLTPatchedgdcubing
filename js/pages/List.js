@@ -118,7 +118,7 @@ export default {
                         Do not use secret routes or bug routes
                     </p>
                     <p>
-                        If your level is top 400 or above on AREDL, you must have it accepted on AREDL first.
+                        If your level is top 400 or above on AREDL, you must have 3 people (If your a mod, your included in the 3) to say your record is legit.
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
