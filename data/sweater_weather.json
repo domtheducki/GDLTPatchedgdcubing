@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=TfzP5fQWwHo",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Euler",
+            "link": "https://youtu.be/_uieSL7Qqp0?si=RM1EEVvMihX2wnQ3"
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
