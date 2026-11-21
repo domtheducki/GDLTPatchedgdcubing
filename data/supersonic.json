@@ -6,13 +6,19 @@
     "verifier": "Matthew",
     "verification": "https://www.youtube.com/watch?v=KUItyH1A6s4",
     "percentToQualify": "100",
-    "password": "75",
+    "password": "77.5",
     "records": [
        {
             "user": "Dom",
             "link": "https://youtu.be/HmOMzVEMOZw",
             "percent": 100,
             "hz": 75
-        }
+        },
+       {
+            "user": "Euler",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+       }
     ]
 }
