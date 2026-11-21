@@ -6,7 +6,13 @@
     "verifier": "Tim",
     "verification": "youtube.com/watch?v=wCW9AjXboic",
     "percentToQualify": "100",
-    "password": "54 (!)",
+    "password": "57",
     "records": [
+       {
+            "user": "Euler",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+       }
     ]
 }
