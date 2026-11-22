@@ -1,6 +1,6 @@
 {
     "id": 6939821,
-    "name": "Jawbreaker",
+    "name": "Jawbreaker (ZenthicAlpha)",
     "author": "ZenthicAlpha",
     "creators": [],
     "verifier": "Thomas",
@@ -31,6 +31,12 @@
             "link": "Not applicable",
             "percent": 100,
             "hz": 60
+        },
+         {
+            "user": "Euler",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
