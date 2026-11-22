@@ -19,5 +19,12 @@
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 144
-        }]
+        },
+         {
+            "user": "Euler",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
