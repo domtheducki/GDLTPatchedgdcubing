@@ -6,7 +6,13 @@
     "verifier": "Ivy",
     "verification": "https://youtu.be/MCXTkGU30pc?si=cGpvN3_fXfp3LXlb",
     "percentToQualify": "100",
-    "password": "65 (!)",
+    "password": "82.5",
     "records": [
+         {
+            "user": "Euler",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
